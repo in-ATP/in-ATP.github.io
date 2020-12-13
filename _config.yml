@@ -35,6 +35,8 @@ algolia:
   search_only_api_key: 
   powered_by: # true (default), false
 
+google_analytics: UA-106585217-3
+
 # Liquid
 liquid:
   error_mode: strict
